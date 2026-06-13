@@ -329,3 +329,14 @@ html{
   background:var(--card);
   font-weight:700;
 }
+
+/* Footer */
+.site-footer{
+  text-align:center;
+  padding:20px 8%;
+  background:rgba(10, 9, 26, 0.78);
+  border-top:1px solid var(--border);
+  margin-top:40px;
+  color:var(--muted);
+  font-size:16px;
+}
